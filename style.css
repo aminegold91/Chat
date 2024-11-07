@@ -22,6 +22,7 @@ body {
   align-items: center;
   justify-content: space-around;
   display: flex;
+  z-index: 1000;
 }
 .c-inp .button{
   width: 40px;
